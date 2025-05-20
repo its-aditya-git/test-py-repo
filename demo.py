@@ -13,8 +13,7 @@ if age!=18:
 else:
     print("i am not eligible")
 
-print("i want to become millionaire")
-hi there
+print("world")
 
 
 
